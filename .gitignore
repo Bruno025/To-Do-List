@@ -1,0 +1,16 @@
+# Ne jamais publier ceci
+.env
+.vscode/
+
+# Dossier d'installation des packages
+node_modules/
+
+# Fichiers système inutiles
+.DS_Store
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.swp
+
