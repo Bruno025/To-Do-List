@@ -92,6 +92,7 @@ Visitez [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📄 Licence
+## 🛡️ Licence
 
-Projet personnel pour apprentissage – libre d’utilisation et de modification.
+Ce projet est sous licence **MIT**. Vous pouvez l'utiliser, le modifier, le redistribuer librement tant que vous incluez la mention du copyright.
+
